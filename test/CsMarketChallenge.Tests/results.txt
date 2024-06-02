@@ -1,3 +1,4 @@
+
 Random Oko Za Oko avg 11,176 std dev 52 min 10940 max 11335
 Constant False avg 10,411 std dev 28 min 10332 max 10497
 Opposite avg 9,499 std dev 56 min 9315 max 9689
@@ -9,3 +10,43 @@ Forgiving 3 Oko Za Oko avg 7,039 std dev 19 min 6986 max 7094
 Forgiving 6 Oko Za Oko avg 7,017 std dev 18 min 6940 max 7075
 Forgiving 5 Oko Za Oko avg 6,857 std dev 17 min 6805 max 6911
 Oko Za Oko avg 6,773 std dev 19 min 6713 max 6826
+
+
+
+Random Oko Za Oko avg 28,225 std dev 64 min 28017 max 28405
+Opposite avg 26,156 std dev 54 min 25993 max 26316
+Constant False avg 25,731 std dev 28 min 25650 max 25830
+Odd avg 25,252 std dev 39 min 25126 max 25394
+Random Strategy avg 24,998 std dev 160 min 24540 max 25565
+Even avg 24,663 std dev 40 min 24544 max 24865
+Constant True avg 16,473 std dev 55 min 16286 max 16638
+Forgiving 4 Oko Za Oko avg 14,915 std dev 21 min 14842 max 14972
+Forgiving 2 Oko Za Oko avg 14,788 std dev 24 min 14726 max 14855
+Forgiving 8 Oko Za Oko avg 14,775 std dev 18 min 14712 max 14825
+Forgiving 6 Oko Za Oko avg 14,692 std dev 19 min 14611 max 14741
+Forgiving 10 Oko Za Oko avg 14,646 std dev 16 min 14575 max 14687
+Serial 1 Punisher avg 14,551 std dev 36 min 14435 max 14651
+Forgiving 7 Oko Za Oko avg 14,410 std dev 16 min 14342 max 14451
+Forgiving 9 Oko Za Oko avg 14,343 std dev 14 min 14287 max 14386
+Forgiving 3 Oko Za Oko avg 14,282 std dev 19 min 14208 max 14339
+Forgiving 5 Oko Za Oko avg 14,227 std dev 17 min 14159 max 14270
+Oko Za Oko avg 13,727 std dev 21 min 13662 max 13789
+Forgiving 1 Oko Za Oko avg 13,727 std dev 21 min 13660 max 13791
+Serial 2 Punisher avg 13,642 std dev 32 min 13549 max 13779
+Serial 3 Punisher avg 13,104 std dev 29 min 13017 max 13198
+Serial 4 Punisher avg 12,772 std dev 30 min 12672 max 12872
+Serial 5 Punisher avg 12,536 std dev 32 min 12437 max 12626
+Serial 6 Punisher avg 12,367 std dev 30 min 12268 max 12466
+Serial 7 Punisher avg 12,253 std dev 31 min 12148 max 12351
+Serial 8 Punisher avg 12,146 std dev 31 min 12049 max 12236
+Serial 9 Punisher avg 12,046 std dev 30 min 11951 max 12150
+Serial 10 Punisher avg 12,006 std dev 32 min 11911 max 12106
+
+
+in case of selected, distribution is different
+Odd avg 8,129 std dev 38 min 8008 max 8254
+Even avg 7,520 std dev 38 min 7393 max 7633
+Random Strategy avg 6,724 std dev 80 min 6470 max 6999
+Random Oko Za Oko avg 6,672 std dev 40 min 6507 max 6790
+Opposite avg 6,362 std dev 57 min 6192 max 6565
+Constant False avg 4,935 std dev 28 min 4845 max 5037

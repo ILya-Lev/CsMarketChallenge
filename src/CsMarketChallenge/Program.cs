@@ -1,4 +1,6 @@
-﻿namespace CsMarketChallenge;
+﻿using System.Security.Cryptography;
+
+namespace CsMarketChallenge;
 
 public static class Program
 {
@@ -17,7 +19,7 @@ public static class Program
                 new ConstantTrue(),
                 new ConstantFalse(),
             }
-            .OrderBy(x => Random.Shared.NextDouble())
+            .OrderBy(x => RandomNumberGenerator.GetInt32(0, 100_000))
             .Select(x => new Competitor(x))
             .ToArray();
 

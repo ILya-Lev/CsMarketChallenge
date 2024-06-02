@@ -1,0 +1,11 @@
+Random Oko Za Oko avg 11,176 std dev 52 min 10940 max 11335
+Constant False avg 10,411 std dev 28 min 10332 max 10497
+Opposite avg 9,499 std dev 56 min 9315 max 9689
+Random Strategy avg 8,888 std dev 103 min 8603 max 9231
+Constant True avg 8,792 std dev 54 min 8628 max 8948
+Forgiving 4 Oko Za Oko avg 7,240 std dev 21 min 7160 max 7295
+Forgiving 2 Oko Za Oko avg 7,109 std dev 25 min 7020 max 7202
+Forgiving 3 Oko Za Oko avg 7,039 std dev 19 min 6986 max 7094
+Forgiving 6 Oko Za Oko avg 7,017 std dev 18 min 6940 max 7075
+Forgiving 5 Oko Za Oko avg 6,857 std dev 17 min 6805 max 6911
+Oko Za Oko avg 6,773 std dev 19 min 6713 max 6826
